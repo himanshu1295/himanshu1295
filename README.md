@@ -10,7 +10,7 @@ I am a versatile professional with experience in engineering, customer service, 
 
 ## 💼 Professional Journey
 
-### Graduate Engineer Trainee at Isgec Heavy Engineering Ltd. (Jun 2021 - Oct 2021)
+### Graduate Engineer Trainee at ISGEC Heavy Engineering Ltd. (Jun 2021 - Oct 2021)
 
 - Conducted market research and competitive analysis for CNC Press Break Machine.
 - Provided product information and recommended machines to clients.
