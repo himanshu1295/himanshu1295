@@ -15,7 +15,7 @@ I am a versatile professional with experience in engineering, customer service, 
 - Conducted market research and competitive analysis for CNC Press Break Machine.
 - Provided product information and recommended machines to clients.
 
-### Sales and Service Engineer at Arm Welders Pvt. Ltd. (Sep 2019 - Jun 2021)
+### Sales and Service Engineer at Arm Welders (Sep 2019 - Jun 2021)
 
 - Provided superior customer service and understood client product requirements.
 
