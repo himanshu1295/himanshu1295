@@ -35,7 +35,7 @@ I am a versatile professional with experience in engineering, customer service, 
 
 SQL | Microsoft Excel | Python | Tableau | Web Scraping | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API.
 
-## Projects
+## 📁 Projects
 
 - [Database Engineer Capstone Project](https://github.com/himanshu1295/db-capstone-project)
 
