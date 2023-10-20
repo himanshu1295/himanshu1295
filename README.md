@@ -26,10 +26,6 @@ I am a versatile professional with experience in engineering, customer service, 
 
 ### Intern at Indian Oil Corporation Ltd. (May 2017 - Jun 2017)
 
-## 🎓 Education
-
-Bachelor of Technology in Mechanical and Automation Engineering from Amity University (2014 - 2018).
-
 ## 📜 Certifications
 
 - Meta Database Engineer by Meta on Coursera.
@@ -38,6 +34,22 @@ Bachelor of Technology in Mechanical and Automation Engineering from Amity Unive
 ## 🚀 Skills
 
 SQL | Microsoft Excel | Python | Tableau | Web Scraping | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API.
+
+## Projects
+
+- [Database Engineer Capstone Project](https://github.com/himanshu1295/db-capstone-project)
+
+- [Data Modeling Project](https://github.com/himanshu1295/Data_Modeling_Project)
+
+- [SQL Portfolio](https://github.com/himanshu1295/SQL_Portfolio)
+
+- [Python Portfolio](https://github.com/himanshu1295/Python_Portfolio)
+
+- [Tableau Portfolio](https://public.tableau.com/app/profile/himanshu.vashisth7928)
+
+## 🎓 Education
+
+Bachelor of Technology in Mechanical and Automation Engineering from Amity University (2014 - 2018).
 
 ## 📚 Research Paper
 
