@@ -45,7 +45,7 @@ SQL | Microsoft Excel | Python | Tableau | Web Scraping | Data Modeling | Bash (
 
 - [Python Portfolio](https://github.com/himanshu1295/Python_Portfolio)
 
-- [Tableau Portfolio](https://public.tableau.com/app/profile/himanshu.vashisth7928)
+- [Tableau Portfolio](https://public.tableau.com/app/profile/himanshu.vashisth)
 
 ## 🎓 Education
 
