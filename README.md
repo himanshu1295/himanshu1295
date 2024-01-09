@@ -6,7 +6,7 @@ A passionate Data Analyst with a strong drive for using data-driven insights to 
 
 ## 🌟 Professional Summary
 
-Motivated and results-oriented data professional with a strong background in Mechanical and Automation Engineering and a proven track record in market research, customer service, and data analytics. Experienced in leveraging technical skills and business acumen to derive actionable insights and contribute to data-driven decision-making. Proficient in Python, SQL, data cleaning, and various data analysis and visualization tools. Seeking a challenging role in the data science domain.
+Motivated and results-oriented data professional with a strong background in Engineering and a proven track record in market research, customer service, and data analytics. Experienced in leveraging technical skills and business acumen to derive actionable insights and contribute to data-driven decision-making. Proficient in Python, SQL, data cleaning, and various data analysis and visualization tools. Seeking a challenging role in the data science domain.
 
 ## 💼 Professional Journey
 
@@ -61,7 +61,7 @@ SQL | Microsoft Excel | Python | Data Analysis | Tableau | Power BI | Web Scrapi
 
 ## 🎓 Education
 
-Bachelor of Technology in Mechanical and Automation Engineering from Amity University (2014 - 2018).
+Bachelor of Technology in Mech. and Automation Engineering from Amity University (2014 - 2018).
 
 ## 📚 Research Paper
 
