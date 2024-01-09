@@ -2,27 +2,39 @@
 
 ## ➤ About Me
 
-A passionate Data Analyst enthusiast with a strong drive for using data-driven insights to make informed decisions. I'm dedicated to leveraging my technical skills and practical experience to excel in the world of Data Science.
+A passionate Data Analyst with a strong drive for using data-driven insights to make informed decisions. I'm dedicated to leveraging my technical skills and practical experience to excel in the world of Data Science.
 
 ## 🌟 Professional Summary
 
-I am a versatile professional with experience in engineering, customer service, and data analysis. My commitment to superior customer service, coupled with my technical skills, makes me well-suited for the world of Data Science.
+Motivated and results-oriented data professional with a strong background in Mechanical and Automation Engineering and a proven track record in market research, customer service, and data analytics. Experienced in leveraging technical skills and business acumen to derive actionable insights and contribute to data-driven decision-making. Proficient in Python, SQL, data cleaning, and various data analysis and visualization tools. Seeking a challenging role in the data science domain.
 
 ## 💼 Professional Journey
 
-### Graduate Engineer Trainee at ISGEC Heavy Engineering Ltd. (Jun 2021 - Oct 2021)
+### Co-Owner at Vashisth Paints and Hardware Store (Oct 2021 - Present)
 
-- Conducted market research and competitive analysis for CNC Press Break Machine.
-- Provided product information and recommended machines to clients.
+- Analyzed sales data using Python, Excel, Power BI, and Tableau to identify customer trends and product performance.
+- Developed data-driven strategies to optimize inventory management and pricing, resulting in a 10% increase in revenue.
+- Orchestrated procurement operations, liaising with vendors for optimal inventory management. 
+- Applied excellent communication and interpersonal skills with customers and vendors.
 
-### Sales and Service Engineer at Arm Welders (Sep 2019 - Jun 2021)
+### GET - Sales And Marketing at ISGEC Heavy Engineering Ltd. (Jun 2021 - Oct 2021)
 
-- Provided superior customer service and understood client product requirements.
+- Delivered superior customer service and recommended machines based on client needs.
+- Participated in tenders and conducted market research and competitive analysis for product launches using data analysis techniques.
+- Employed Excel, MySQL, Microsoft PowerPoint, Microsoft Word, and Tableau for sales analytics.
+- Analyzed customer feedback data to identify product improvement opportunities and enhance customer satisfaction. 
+
+### Sales and Service Engineer at Arm Welders Pvt Ltd (Sep 2019 - Jun 2021)
+
+- Implemented a data-driven approach to identify potential leads and optimize sales routes, increasing lead conversion by 20%.
+- Demonstrated excellent communication and interpersonal skills, meeting client product requirements.
+- Employed Excel, MySQL, Microsoft PowerPoint, Microsoft Word, and Tableau for sales analytics.
 
 ### Executive in Customer Experience at Grofers India Pvt. Ltd. (May 2018 - Sep 2019)
 
+- Developed and implemented new customer service protocols based on data analysis, leading to a 10% reduction in customer complaints.
 - Developed and maintained strong customer relationships.
-- Supervised a team of customer service representatives during Grand Orange Bag Days.
+- Led a team of 10 during Grand Orange Bag Days Sale 2.0, achieving a 20% increase in customer satisfaction.
 
 ### Intern at Indian Oil Corporation Ltd. (May 2017 - Jun 2017)
 
@@ -33,7 +45,7 @@ I am a versatile professional with experience in engineering, customer service, 
 
 ## 🚀 Skills
 
-SQL | Microsoft Excel | Python | Tableau | Web Scraping | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API.
+SQL | Microsoft Excel | Python | Data Analysis | Tableau | Power BI | Web Scraping | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API | Streamlit | Statistics | Machine Learning.
 
 ## 📁 Projects
 
