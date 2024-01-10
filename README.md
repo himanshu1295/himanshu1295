@@ -10,7 +10,7 @@ Motivated and results-oriented data professional with a strong background in Eng
 
 ## 💼 Professional Journey
 
-### Co-Owner at Vashisth Paints and Hardware Store (Oct 2021 - Present)
+### Analyst & Co-Owner at Vashisth Paints and Hardware Store (Oct 2021 - Present)
 
 - Analyzed sales data using Python, Excel, Power BI, and Tableau to identify customer trends and product performance.
 - Developed data-driven strategies to optimize inventory management and pricing, resulting in a 10% increase in revenue.
