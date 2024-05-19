@@ -6,16 +6,9 @@ A passionate Data Analyst with a strong drive for using data-driven insights to 
 
 ## 🌟 Professional Summary
 
-Motivated and results-oriented data professional with a strong background in Engineering and a proven track record in market research, customer service, and data analytics. Experienced in leveraging technical skills and business acumen to derive actionable insights and contribute to data-driven decision-making. Proficient in Python, SQL, data cleaning, and various data analysis and visualization tools. Seeking a challenging role in the data science domain.
+Motivated and results-oriented data professional with a strong background in Engineering and a proven track record in market research, customer service, and data analytics. Experienced in leveraging technical skills and business acumen to derive actionable insights and contribute to data-driven decision-making. Proficient in R, Python, SQL, MongoDB, MS Excel, Tableau, Power BI, data cleaning, and various data analysis and visualization tools. Seeking a challenging role in the data science domain.
 
 ## 💼 Professional Journey
-
-### Analyst & Co-Owner at Vashisth Paints and Hardware Store (Oct 2021 - Present)
-
-- Analyzed sales data using Python, Excel, Power BI, and Tableau to identify customer trends and product performance.
-- Developed data-driven strategies to optimize inventory management and pricing, resulting in a 10% increase in revenue.
-- Orchestrated procurement operations, liaising with vendors for optimal inventory management. 
-- Applied excellent communication and interpersonal skills with customers and vendors.
 
 ### GET - Sales And Marketing at ISGEC Heavy Engineering Ltd. (Jun 2021 - Oct 2021)
 
@@ -41,11 +34,12 @@ Motivated and results-oriented data professional with a strong background in Eng
 ## 📜 Certifications
 
 - Meta Database Engineer by Meta on Coursera.
+- Google Data Analytics by Google on Coursera.
 - Complete Machine Learning and Data Science Program by GeeksforGeeks.
 
 ## 🚀 Skills
 
-SQL | Microsoft Excel | Python | Data Analysis | Tableau | Power BI | Web Scraping | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API | Streamlit | Statistics | Machine Learning.
+SQL | Microsoft Excel | Google Sheets | Python | R | Data Analysis | Tableau | Power BI | Web Scraping | MongoDB | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API | Streamlit | Statistics | Machine Learning.
 
 ## 📁 Projects
 
