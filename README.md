@@ -17,12 +17,6 @@ Motivated and results-oriented data professional with a strong background in Eng
 - Employed Excel, MySQL, Microsoft PowerPoint, Microsoft Word, and Tableau for sales analytics.
 - Analyzed customer feedback data to identify product improvement opportunities and enhance customer satisfaction. 
 
-### Sales and Service Engineer at Arm Welders Pvt Ltd (Sep 2019 - Jun 2021)
-
-- Implemented a data-driven approach to identify potential leads and optimize sales routes, increasing lead conversion by 20%.
-- Demonstrated excellent communication and interpersonal skills, meeting client product requirements.
-- Employed Excel, MySQL, Microsoft PowerPoint, Microsoft Word, and Tableau for sales analytics.
-
 ### Executive in Customer Experience at Grofers India Pvt. Ltd. (May 2018 - Sep 2019)
 
 - Developed and implemented new customer service protocols based on data analysis, leading to a 10% reduction in customer complaints.
