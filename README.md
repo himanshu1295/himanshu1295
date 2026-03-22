@@ -5,7 +5,7 @@
 ### Python Developer · AI Automation Engineer · LLM Integration Specialist
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vashisth)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu-vashisth)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu1295)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvashisth.tech@gmail.com)
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/himanshu.vashisth)
 
@@ -118,7 +118,7 @@ Python Developer and AI Automation Engineer with **6+ years of experience** buil
 
 A document Q&A system where users upload PDFs and query in natural language. **Pipeline:** PDF ingestion → text chunking → OpenAI embeddings → FAISS vector search → LLM-generated answer via FastAPI endpoint. Streamlit front-end for interaction.
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu-vashisth/pdf-knowledge-assistant)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/pdf-knowledge-assistant)
 
 ---
 
@@ -127,7 +127,7 @@ A document Q&A system where users upload PDFs and query in natural language. **P
 
 Automated research agent that accepts a topic query, scrapes relevant web pages, summarises content using the **OpenAI API**, and stores structured summaries in SQLite — served via a FastAPI REST endpoint.
 
-[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu-vashisth/ai-research-agent)
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/ai-research-agent)
 
 ---
 
@@ -197,7 +197,7 @@ I'm open to **AI/ML Engineer**, **Python Developer**, and **Automation Engineer*
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vashisth)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvashisth.tech@gmail.com)
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu-vashisth)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu1295)
 
 </div>
 
