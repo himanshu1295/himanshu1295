@@ -1,87 +1,208 @@
-# Hi there, I'm Himanshu! 🙏
+<div align="center">
 
-## ➤ About Me
+# 👋 Hi, I'm Himanshu Vashisth
 
-A passionate Data Analyst with a strong drive for using data-driven insights to make informed decisions. I'm dedicated to leveraging my technical skills and practical experience to excel in the world of Data Science.
+### Python Developer · AI Automation Engineer · LLM Integration Specialist
 
-## 🌟 Professional Summary
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vashisth)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu-vashisth)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvashisth.tech@gmail.com)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/himanshu.vashisth)
 
-Motivated and results-oriented data professional with a strong background in Engineering and a proven track record in market research, customer service, and data analytics. Experienced in leveraging technical skills and business acumen to derive actionable insights and contribute to data-driven decision-making. Proficient in R, Python, SQL, MongoDB, MS Excel, Tableau, Power BI, data cleaning, and various data analysis and visualization tools. Seeking a challenging role in the data science domain.
+</div>
 
-## 💼 Professional Journey
+---
 
-### GET - Sales And Marketing at ISGEC Heavy Engineering Ltd. (Jun 2021 - Oct 2021)
+## 🚀 About Me
 
-- Delivered superior customer service and recommended machines based on client needs.
-- Participated in tenders and conducted market research and competitive analysis for product launches using data analysis techniques.
-- Employed Excel, MySQL, Microsoft PowerPoint, Microsoft Word, and Tableau for sales analytics.
-- Analyzed customer feedback data to identify product improvement opportunities and enhance customer satisfaction. 
+Python Developer and AI Automation Engineer with **6+ years of experience** building production automation systems, data pipelines, and LLM-powered applications. I specialize in combining **GenAI capabilities** (OpenAI, Claude, Ollama) with robust backend engineering to deliver automation solutions that actually work at scale.
 
-### Executive in Customer Experience at Grofers India Pvt. Ltd. (May 2018 - Sep 2019)
+- 🤖 Currently leading a **20-engineer cross-functional team** at HackElite, building end-to-end Android device automation & AI pipelines
+- 🧠 Hands-on with **RAG pipelines, prompt engineering**, and LLM API integration
+- 📈 Consistent track record: **90%+ automation success rates**, **95%+ infrastructure uptime**, **40–70% reduction** in manual effort
+- 📍 Based in Delhi, India
 
-- Developed and implemented new customer service protocols based on data analysis, leading to a 10% reduction in customer complaints.
-- Developed and maintained strong customer relationships.
-- Led a team of 10 during Grand Orange Bag Days Sale 2.0, achieving a 20% increase in customer satisfaction.
+---
 
-### Intern at Indian Oil Corporation Ltd. (May 2017 - Jun 2017)
+## 🛠️ Tech Stack
+
+### 🤖 AI / LLM
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG_Pipelines-6B48FF?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-FF6F61?style=flat-square)
+
+### 💻 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+### ⚙️ Backend & APIs
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Async Python](https://img.shields.io/badge/Async_Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+### 🤖 Automation & Scraping
+![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Appium](https://img.shields.io/badge/Appium-662D91?style=flat-square&logo=appium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-3776AB?style=flat-square&logo=python&logoColor=white)
+![ADB](https://img.shields.io/badge/ADB_Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+### 📊 Data & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
+
+### 🏗️ Infrastructure
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+
+---
+
+## 💼 Professional Experience
+
+<details>
+<summary><b>🏢 HackElite Private Limited — Developer, Automation & Infrastructure Lead</b> &nbsp;|&nbsp; Feb 2025 – Present</summary>
+
+<br>
+
+- 👥 Lead and mentor a cross-functional team of **20 engineers** across automation, device orchestration, and data workflows; reduced onboarding time by **40%** through structured documentation
+- 📱 Architected end-to-end Android device automation using **ADB, Appium, and XML UI parsing** across stock Android and custom ROM environments; sustained **90%+ automation success rate**
+- 🕷️ Built distributed web scraping pipelines using **Playwright and BeautifulSoup**; reduced manual data collection effort by **70%**
+- 🖥️ Deployed **Raspberry Pi Linux cluster** for distributed automation; improved infrastructure uptime to **95%+**
+- 🗄️ Administered MySQL and SQLite analytics pipelines maintaining query response times **under 200ms**
+
+</details>
+
+<details>
+<summary><b>🏢 Pelorus Technologies Private Limited — Python Developer, Backend Automation & Data Engineering</b> &nbsp;|&nbsp; May 2024 – Jan 2025</summary>
+
+<br>
+
+- 🐍 Developed 10+ Python automation scripts reducing manual operational effort by **60%**
+- 🤖 Integrated **OpenAI and Claude APIs** into data enrichment pipelines for automated content summarization and classification
+- ⚡ Optimised SQL schemas and query execution plans; improved analytics pipeline performance by **40%**
+- 🔧 Debugged and refactored legacy automation scripts, reducing execution failures by **35%**
+
+</details>
+
+<details>
+<summary><b>💻 Freelance Python Developer — Automation, Scraping & API Integration</b> &nbsp;|&nbsp; Oct 2021 – Apr 2024</summary>
+
+<br>
+
+- 🔗 Completed Python automation and web scraping projects for clients across e-commerce and logistics
+- 🤖 Integrated **OpenAI API** for document summarization, reducing manual content processing time by **60%**
+- 🚀 Built **FastAPI-based backend services** for client tools; deepened hands-on LLM API and RAG expertise
+
+</details>
+
+---
+
+## 🔭 Featured Projects
+
+### 🧠 RAG-Based PDF Knowledge Assistant
+> `Python` `OpenAI API` `FastAPI` `Streamlit` `FAISS`
+
+A document Q&A system where users upload PDFs and query in natural language. **Pipeline:** PDF ingestion → text chunking → OpenAI embeddings → FAISS vector search → LLM-generated answer via FastAPI endpoint. Streamlit front-end for interaction.
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu-vashisth/pdf-knowledge-assistant)
+
+---
+
+### 🌐 AI-Powered Web Research Agent
+> `Python` `OpenAI API` `FastAPI` `BeautifulSoup` `SQLite`
+
+Automated research agent that accepts a topic query, scrapes relevant web pages, summarises content using the **OpenAI API**, and stores structured summaries in SQLite — served via a FastAPI REST endpoint.
+
+[![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu-vashisth/ai-research-agent)
+
+---
+
+### 📱 Android Device Automation Dashboard
+> `Python` `ADB` `Appium` `Streamlit` `SQLite`
+
+Centralised Streamlit dashboard for managing Android device automation fleets — real-time device status, job queue management, and error alerting via ADB scripting. Reduced manual monitoring effort by **75%**.
+
+---
+
+### 📂 More Projects
+
+| Project | Stack | Link |
+|---|---|---|
+| Database Engineer Capstone | MySQL, Data Modeling | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/db-capstone-project) |
+| Data Modeling Project | ERD, SQL | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/Data_Modeling_Project) |
+| SQL Portfolio | Advanced SQL | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/SQL_Portfolio) |
+| Python Portfolio | Python, Automation | [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/Python_Portfolio) |
+| Tableau Portfolio | Data Visualization | [![Tableau](https://img.shields.io/badge/View-E97627?style=flat-square&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/himanshu.vashisth) |
+
+---
 
 ## 📜 Certifications
 
-- Meta Database Engineer by Meta on Coursera.
-- Google Data Analytics by Google on Coursera.
-- Complete Machine Learning and Data Science Program by GeeksforGeeks.
+| Certificate | Issuer | Platform |
+|---|---|---|
+| 🏅 Meta Database Engineer Professional Certificate | Meta | Coursera |
+| 🏅 Google Data Analytics Professional Certificate | Google | Coursera |
+| 🏅 Machine Learning & Data Science | GeeksforGeeks | GFG |
 
-## 🚀 Skills
+---
 
-SQL | Microsoft Excel | Google Sheets | Python | R | Data Analysis | Tableau | Power BI | Web Scraping | MongoDB | Data Modeling | Bash (Unix Shell) | Project Management | ETL (Extraction, Transformation, and Loading) | Data Warehousing | API | Streamlit | Statistics | Machine Learning.
+## 📚 Research Publication
 
-## 📁 Projects
+> **Microstructural, Mechanical and Corrosion Behaviour of Al–Si Alloy Reinforced with SiC Metal Matrix Composite**
+>
+> 📖 Published in *Journal of Composite Materials* — **SAGE Journals**, December 2019 (Vol. 53)
 
-- [Database Engineer Capstone Project](https://github.com/himanshu1295/db-capstone-project)
-
-- [Data Modeling Project](https://github.com/himanshu1295/Data_Modeling_Project)
-
-- [SQL Portfolio](https://github.com/himanshu1295/SQL_Portfolio)
-
-- [Python Portfolio](https://github.com/himanshu1295/Python_Portfolio)
-
-- [Tableau Portfolio](https://public.tableau.com/app/profile/himanshu.vashisth)
+---
 
 ## 🎓 Education
 
-Bachelor of Technology in Mech. and Automation Engineering from Amity University (2014 - 2018).
+**B.Tech — Mechanical & Automation Engineering**
+Amity University, Noida | 2014 – 2018
 
-## 📚 Research Paper
+---
 
-I have contributed to research in the field of materials science with my paper titled "Microstructural, mechanical, and corrosion behavior of Al–Si alloy reinforced with SiC metal matrix composite," published in the Journal of Composite Materials by SAGE in December 2019 (Volume 53).
+## 📊 GitHub Stats
 
-## 📫 Contact Me
+<div align="center">
 
-If you're interested in connecting or discussing potential opportunities, feel free to reach out to me.
+![Himanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=himanshu1295&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-[Email](mailto:4488himanshu@gmail.com)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1295&layout=compact&theme=tokyonight&hide_border=true)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/himanshu1295) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/vashisth12/)
+![GitHub Streak](https://streak-stats.demolab.com?user=himanshu1295&theme=tokyonight&hide_border=true)
 
-## 📈 GitHub Stats
+</div>
 
-[![Himanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=himanshu1295)](https://github.com/himanshu1295/github-readme-stats)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu1295&layout=compact)](https://github.com/himanshu1295)
+## 📫 Let's Connect
 
+I'm open to **AI/ML Engineer**, **Python Developer**, and **Automation Engineer** roles. Feel free to reach out!
 
+<div align="center">
 
-<!--
-**himanshu1295/himanshu1295** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/himanshu-vashisth)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hvashisth.tech@gmail.com)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/himanshu-vashisth)
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=himanshu1295&color=6B48FF&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
