@@ -17,7 +17,7 @@
 
 Python Developer and AI Automation Engineer with **6+ years of experience** building production automation systems, data pipelines, and LLM-powered applications. I specialize in combining **GenAI capabilities** (OpenAI, Claude, Ollama) with robust backend engineering to deliver automation solutions that actually work at scale.
 
-- 🤖 Currently leading a **20-engineer cross-functional team** at HackElite, building end-to-end Android device automation & AI pipelines
+- 🤖 Currently leading a **20-engineer cross-functional team** at HackElite, building end-to-end automation & AI pipelines
 - 🧠 Hands-on with **RAG pipelines, prompt engineering**, and LLM API integration
 - 📈 Consistent track record: **90%+ automation success rates**, **95%+ infrastructure uptime**, **40–70% reduction** in manual effort
 - 📍 Based in Delhi, India
@@ -78,8 +78,8 @@ Python Developer and AI Automation Engineer with **6+ years of experience** buil
 
 <br>
 
-- 👥 Lead and mentor a cross-functional team of **20 engineers** across automation, device orchestration, and data workflows; reduced onboarding time by **40%** through structured documentation
-- 📱 Architected end-to-end Android device automation using **ADB, Appium, and XML UI parsing** across stock Android and custom ROM environments; sustained **90%+ automation success rate**
+- 👥 Lead and mentor a cross-functional team of **engineers** across automation, device orchestration, and data workflows; reduced onboarding time by **40%** through structured documentation
+- 📱 Architected end-to-end automation using **ADB, Appium, and XML UI parsing**; sustained **90%+ automation success rate**
 - 🕷️ Built distributed web scraping pipelines using **Playwright and BeautifulSoup**; reduced manual data collection effort by **70%**
 - 🖥️ Deployed **Raspberry Pi Linux cluster** for distributed automation; improved infrastructure uptime to **95%+**
 - 🗄️ Administered MySQL and SQLite analytics pipelines maintaining query response times **under 200ms**
@@ -128,13 +128,6 @@ A document Q&A system where users upload PDFs and query in natural language. **P
 Automated research agent that accepts a topic query, scrapes relevant web pages, summarises content using the **OpenAI API**, and stores structured summaries in SQLite — served via a FastAPI REST endpoint.
 
 [![GitHub](https://img.shields.io/badge/View_on_GitHub-181717?style=flat-square&logo=github)](https://github.com/himanshu1295/ai-research-agent)
-
----
-
-### 📱 Android Device Automation Dashboard
-> `Python` `ADB` `Appium` `Streamlit` `SQLite`
-
-Centralised Streamlit dashboard for managing Android device automation fleets — real-time device status, job queue management, and error alerting via ADB scripting. Reduced manual monitoring effort by **75%**.
 
 ---
 
