@@ -17,7 +17,7 @@
 
 Python Developer and AI Automation Engineer with **6+ years of experience** building production automation systems, data pipelines, and LLM-powered applications. I specialize in combining **GenAI capabilities** (OpenAI, Claude, Ollama) with robust backend engineering to deliver automation solutions that actually work at scale.
 
-- 🤖 Currently leading a **20-engineer cross-functional team** at HackElite, building end-to-end automation & AI pipelines
+- 🤖 Currently working at HackElite, building end-to-end automation & AI pipelines
 - 🧠 Hands-on with **RAG pipelines, prompt engineering**, and LLM API integration
 - 📈 Consistent track record: **90%+ automation success rates**, **95%+ infrastructure uptime**, **40–70% reduction** in manual effort
 - 📍 Based in Delhi, India
