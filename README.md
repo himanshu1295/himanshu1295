@@ -164,7 +164,7 @@ Automated research agent that accepts a topic query, scrapes relevant web pages,
 ## 🎓 Education
 
 **B.Tech — Mechanical & Automation Engineering**
-Amity University, Noida | 2014 – 2018
+Amity University, Noida
 
 ---
 
